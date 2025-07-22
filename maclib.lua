@@ -274,7 +274,7 @@ function MacLib:Window(Settings)
 	tempestButton.BorderSizePixel = 0
 	tempestButton.Position = UDim2.new(0.5, 0, 0.5, 0)
 	tempestButton.Size = UDim2.new(1, 0, 1, 0)
-	tempestButton.Image = "http://www.roblox.com/asset/?id=119534847007535"
+	tempestButton.Image = "http://www.roblox.com/asset/?id=133076495976538"
 	UICorner2.Parent = tempestButton
 
 	tempestButton.Activated:Connect(function()
